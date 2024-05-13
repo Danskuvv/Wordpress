@@ -17,9 +17,12 @@
     <header class="page-header">
         <div class="header-top-left">
             <?php the_custom_logo(); ?>
+            <?php get_search_form(); ?>
+
         </div>
         <div class="header-top-right">
             <?php wp_nav_menu(['container' => 'nav', 'theme_location' => 'main-menu']); ?>
+
         </div>
     </header>
 

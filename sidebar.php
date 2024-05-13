@@ -1,8 +1,8 @@
 <aside>
     <section class="contact">
-        <h2>Contact Us</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, quos.</p>
+        <h2>Need help?</h2>
+        <p>Customer service, feedback, partnerships? We will help!</p>
+        <br>
         <a href="#">Contact Us</a>
-        <?php get_search_form(); ?>
     </section>
 </aside>

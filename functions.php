@@ -6,8 +6,8 @@ function theme_setup(): void
     add_theme_support('post-thumbnails');
     add_theme_support('custom-header');
     add_theme_support('custom-logo', [
-        'height' => 100,
-        'width' => 200,
+        'height' => 55,
+        'width' => 55,
         'flex-height' => true,
     ]);
 
